@@ -3,8 +3,6 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Justifications](#Justifications)
-- [Usage](#usage)
 - [Documentation](#documentation)
 - [Contact](#contact)
 
